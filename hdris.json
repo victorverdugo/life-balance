@@ -1,0 +1,96 @@
+{
+"studio" : [
+  {"img": "hdri_studio_softbox_varA_v001","type": "exr", "fav":true,"show":true},
+  {"img": "studio_small","type": "hdr", "fav":true,"show":true},
+  {"key":"hdri003","img": "HDR_1","type": "hdr","fav":false,"show":true},
+  {"img": "HDR_2","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_3","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_4","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_5","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_6","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_7","type": "hdr", "fav":true,"show":true},
+  {"img": "HDR_8","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_9","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_10","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_11","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_12","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_13","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_14","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_15","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_16","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_17","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_18","type": "hdr","fav":false,"show":true},
+  {"img": "HDR_19","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_20","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_21","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_22","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_23","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_24","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_25","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_26","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_27","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_28","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_29","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_30","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_31","type": "hdr", "fav":false,"show":true},
+  {"img": "HDR_32","type": "hdr", "fav":false,"show":true},
+  {"img": "tefx_hdri_43","type": "hdr","fav":false,"show":true},
+  {"img": "hdri_studio_chimera_varA_v001","type": "exr","fav":false,"show":true},
+  {"img": "HDRI_STUDIO_vol2_012","type": "exr","fav":false,"show":true},
+  {"img": "Soft_Lights_Studio1","type": "exr","fav":false,"show":true},
+  {"img": "Softbox_Tent2","type": "exr","fav":false,"show":true}
+  
+] ,
+"environment" : [
+  {"img": "canada_montreal_loft_max_sunny","type": "exr"},
+  {"img": "canada_montreal_nad_cafeteria_bright","type": "exr", "fav":false,"show":true},
+  {"img": "canada_montreal_nad_photorealism","type": "exr", "fav":false,"show":true},
+  {"img": "canada_montreal_pierre_bathroom","type": "exr","fav":true,"show":true},
+  {"img": "canada_montreal_pierre_kitchen","type": "exr", "fav":false,"show":true},
+  {"img": "canada_montreal_thea","type": "exr", "fav":false,"show":true},
+
+  {"img": "5TH_AVENUE","type": "exr", "fav":false,"show":true},
+  {"img": "53RD_STREET","type": "exr", "fav":false,"show":true},
+  {"img": "51ST_AND_5TH","type": "exr", "fav":false,"show":true},
+  {"img": "44TH_STREET","type": "exr", "fav":false,"show":true},
+  {"img": "49TH_STREET","type": "exr", "fav":false,"show":true},
+  {"img": "42ND_STREET","type": "exr", "fav":false,"show":true},
+  {"img": "CHINATOWN_1","type": "exr", "fav":false,"show":true},
+  {"img": "CHINATOWN_2","type": "exr", "fav":false,"show":true},
+  {"img": "CHINATOWN_3","type": "exr", "fav":false,"show":true},
+  {"img": "TIMES_SQUARE_1","type": "exr","fav":false,"show":true},
+  {"img": "TIMES_SQUARE_2","type": "exr","fav":false,"show":true},
+  {"img": "TIMES_SQUARE_3","type": "exr","fav":false,"show":true},
+
+  {"img": "fin4_Ref","type": "exr", "fav":false,"show":true},
+  {"img": "Harrison_Warehouse","type": "hdr", "fav":false,"show":true},
+  {"img": "hdri-11_color","type": "hdr", "fav":false,"show":true},
+  {"img": "Hilton_Head_Roof_Top","type": "exr","fav":false,"show":true},
+  {"img": "MINSKOFF_THEATRE","type": "exr","fav":false,"show":true},
+  {"img": "Museum_Parking_Lot3","type": "exr","fav":false,"show":true},
+  {"img": "Office_Space","type": "exr","fav":false,"show":true},
+  {"img": "Parking_Garage_Overcast_Top","type": "exr","fav":false,"show":false},
+  {"img": "Parking_Lot_Sunny","type": "exr","fav":false,"show":true},
+  {"img": "HDR_110_Tunnel_Ref","type": "hdr","fav":false,"show":true},
+
+  {"img": "HDR004","type": "hdr","fav":false,"show":true},
+  {"img": "HDR025","type": "hdr","fav":false,"show":true},
+  {"img": "royal_esplanade_8k","type": "hdr","fav":false,"show":true},
+
+  
+  {"img": "BackLight_4K_35","type": "hdr", "fav":false,"show":true},
+
+  {"img": "Abstract3","type": "hdr", "fav":false,"show":true},
+  
+  {"img": "BROADWAY_LAFAYETTE_STATION_1","type": "exr", "fav":false,"show":true},
+  {"img": "BROADWAY_LAFAYETTE_STATION_2","type": "exr", "fav":false,"show":true},
+
+
+  
+
+
+  {"img": "Beach_Panama","type": "exr", "fav":false,"show":true}
+
+]}
+
+  
