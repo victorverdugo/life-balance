@@ -1,7 +1,7 @@
 {
     "2024" : [
-      {"month": "Jan","worked":0,"traveled":0},
-      {"month": "Feb","worked":0,"traveled":0},
+      {"month": "Jan","worked":10,"traveled":0},
+      {"month": "Feb","worked":50,"traveled":0},
       {"month": "Mar","worked":0,"traveled":0},
       {"month": "Apr","worked":0,"traveled":0},
       {"month": "May","worked":0,"traveled":0},
